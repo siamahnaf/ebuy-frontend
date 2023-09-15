@@ -1,0 +1,15 @@
+export default [
+    { name: "Contact Us", url: "/" },
+    { name: "FAQ", url: "/" },
+    { name: "T&C", url: "/" },
+    { name: "Terms of Use", url: "/" },
+    { name: "Track Orders", url: "/" },
+    { name: "Shipping", url: "/" },
+    { name: "Cancellation", url: "/" },
+    { name: "Returns", url: "/" },
+    { name: "Whitehat", url: "/" },
+    { name: "Blog", url: "/" },
+    { name: "Careers", url: "/" },
+    { name: "Privacy Policy", url: "/" },
+    { name: "Site Map", url: "/" },
+]
