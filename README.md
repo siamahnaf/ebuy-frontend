@@ -1,7 +1,7 @@
  <img src="https://lh3.googleusercontent.com/d/1itTuDTkuBkfMYuRh6MAScV3nxFVGbpmo" width="100" height="100" style="display: block; margin: 0 auto;">
 
 # Ebuy frontend
-Ebuy is a modern and responsive e-commerce platform built with Next.js and Material-UI. You can get a seamless shopping experience for our customers, coupled with a visually appealing and user-friendly interface.
+Ebuy is a modern and responsive e-commerce platform built with Next.js and Material-UI. You can get a seamless shopping experience for your customers, coupled with a visually appealing and user-friendly interface.
 
 ## Live demo
 https://ebuy.cabbageweb.com/
